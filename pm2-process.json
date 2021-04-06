@@ -1,0 +1,9 @@
+{
+    "script": "/home/mark/projects/AcademyStudioRestful/venv_academy_studio/bin/python /home/mark/projects/AcademyStudioRestful/main.py",
+    "watch": true,
+    "ignore_watch": ["data"],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "name": "AcademyStudioFastAPI"
+}
