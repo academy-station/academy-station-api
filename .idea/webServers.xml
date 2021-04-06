@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d00ea556-b25d-4fa0-93a5-baf2954332e4" name="mark_AcademyStudioRestful" url="http://nanchuan.site">
+        <fileTransfer rootFolder="/home/mark/projects/AcademyStudioRestful" accessType="SFTP" host="nanchuan.site" port="22" sshConfigId="f9161cba-4061-460a-8853-8376f11c4098" sshConfig="root@nanchuan.site:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="63dbd8e3-545e-4406-9931-631f9338c1aa" name="mark_linux">
+        <fileTransfer accessType="SFTP" host="nanchuan.site" port="22" sshConfigId="f9161cba-4061-460a-8853-8376f11c4098" sshConfig="root@nanchuan.site:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
